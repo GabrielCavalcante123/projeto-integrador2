@@ -7,23 +7,24 @@ Este projeto faz parte da disciplina tal de Projeot Intregador II onde estamos a
 
 # CÚRRICULO BÁSICO
 
-[Currículo Lattes]("URL do seu currículo")
-https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=A2147778F141862252638D11944120BE#
+[Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=A2147778F141862252638D11944120BE#)
 
-[Perfil no Linkedin]("URL do seu perfil no linkedin")
-www.linkedin.com/in/joão-gabriel-cavalcante-leitão-91a862300
+[LINKEDIN]("www.linkedin.com/in/joão-gabriel-cavalcante-leitão-91a862300")
+
 ## DADOS PESSOAIS
 
-" só o básico (exemplo: nome, idade, e e-mail); SEM dados sensíveis como CPF e telefone"
 NOME: João Gabriel Cavalcante Leitão
+
 DATA DE NASCIMENTO: 07/02/2007
+
 NATURALIDADE:EURUNEPÉ-AM
+
 E-MAIL: joaogabrielcavalcanteleitaocav@gmail.com
 
 
 ## FORMAÇÃO ACADÊMICA
 
-formação em andamento no curso técnico de nível médio em informatica na modalidade integrada
+Formação em andamento no curso técnico de nível médio em informatica na modalidade integrada
 
 ## FORMAÇÃO COMPLEMENTAR
 1. Participaçaõ como ouvinte na Palestra e filme "O homem bicentenário", \
@@ -44,10 +45,10 @@ Realizado na V Semana de Pesquisa e Extenção do Intituto Federal do Amazonas -
 Período: 15 de outubro a 03 de dezembro de 2023.  \
 Carga horária: 40h \
 
-4.Participou com êxito da SEMANA DE PESQUISA E EXTENÇÃO.
-Realizado na V Semana de Pesquisa e Extenção do Intituto Federal do Amazonas - Campus Eirunepé, \
-Período: 18 a 21 de outubro de 2023. \ 
-Carga horária: 40h \
+     4.Participou com êxito da SEMANA DE PESQUISA E EXTENÇÃO.
+     Realizado na V Semana de Pesquisa e Extenção do Intituto Federal do Amazonas - Campus Eirunepé, \
+     Período: 18 a 21 de outubro de 2023. \ 
+     Carga horária: 40h \
 
 5. Participaçaõ como ouvinte na Oficina "workshop- segurança da informação",\ 
 Coordenado pelo servidor Antonio Jairo Ferreira Guilherme,\ 
