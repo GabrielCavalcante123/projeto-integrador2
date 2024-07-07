@@ -49,10 +49,10 @@ Realizado na V Semana de Pesquisa e Extenção do Intituto Federal do Amazonas -
 Período: 15 de outubro a 03 de dezembro de 2023.  \
 Carga horária: 40h \
 
-4.Participou com êxito da SEMANA DE PESQUISA E EXTENÇÃO.
-Realizado na V Semana de Pesquisa e Extenção do Intituto Federal do Amazonas - Campus Eirunepé, \
-Período: 18 a 21 de outubro de 2023. \ 
-Carga horária: 40h \
+     4.Participou com êxito da SEMANA DE PESQUISA E EXTENÇÃO.
+     Realizado na V Semana de Pesquisa e Extenção do Intituto Federal do Amazonas - Campus Eirunepé, \
+     Período: 18 a 21 de outubro de 2023. \ 
+     Carga horária: 40h \
 
 5. Participaçaõ como ouvinte na Oficina "workshop- segurança da informação",\ 
 Coordenado pelo servidor Antonio Jairo Ferreira Guilherme,\ 
