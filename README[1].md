@@ -7,7 +7,7 @@ Este projeto faz parte da disciplina tal de Projeot Intregador II onde estamos a
 
 # CÚRRICULO BÁSICO
 
-[Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=A2147778F141862252638D11944120BE#)
+[Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=CD4A266C736320058A1F2E1930CC0E75)
 
 
 [Perfil no Linkedin](https://www.linkedin.com/in/jo%C3%A3o-gabriel-cavalcante-leit%C3%A3o-91a862300/)
