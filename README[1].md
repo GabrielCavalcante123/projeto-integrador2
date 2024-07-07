@@ -12,6 +12,8 @@ Este projeto faz parte da disciplina tal de Projeot Intregador II onde estamos a
 
 [Perfil no Linkedin](www.linkedin.com/in/joão-gabriel-cavalcante-leitão-91a862300)
 
+[CERTIFICADOS](https://drive.google.com/drive/folders/1nKc76BvnlUhPKRUqe_MfAJujEr4zis-V?usp=drive_link)
+
 ## DADOS PESSOAIS
 
 
