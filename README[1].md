@@ -9,8 +9,7 @@ Este projeto faz parte da disciplina tal de Projeot Intregador II onde estamos a
 
 [Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=CD4A266C736320058A1F2E1930CC0E75)
 
-
-[Perfil no Linkedin](www.linkedin.com/in/joão-gabriel-cavalcante-leitão-91a862300)
+[Perfil no Linkedin](www.linkedin.com/in/joão-gabriel-cavalcante-91a862300)
 
 [CERTIFICADOS](https://drive.google.com/drive/folders/1nKc76BvnlUhPKRUqe_MfAJujEr4zis-V?usp=drive_link)
 
