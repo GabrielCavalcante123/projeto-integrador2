@@ -35,7 +35,7 @@ Coordenado pelo servidor Manoel Rodrigues da Silva SIAPE 1134263, \
 Realizado na V Semana de Pesquisa e Extenção do Intituto Federal do Amazonas - Campus Eirunepé,\ 
 Período: 19 a 22 de outubro de 2022.  \
 Carga horária: 3h \
-[certificado referente a atividade](CERTIFICADO1)
+[certificado referente a atividade](https://github.com/GabrielCavalcante123/projeto-integrador2/blob/main/CERITIFICADO12.pdf)
 
 2. Participaçaõ como ouvinte na Palestra "Metaverso: uma imersão educacinal",\ 
 Coordenado pelo servidor Isac Neto da Silva SIAPE 1117711,\ 
