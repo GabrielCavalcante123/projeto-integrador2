@@ -3,7 +3,7 @@ nome do arquivo precisa ser README.
 
 # DESCRIÇÃO
 
-Este projeto faz parte da disciplina tal de Projeot Intregador II onde estamos abordando conceitos básicos da utilização do git e git-hub e criação de currículo.
+Este projeto faz parte da disciplina projeto Intregador II onde estamos abordando conceitos básicos da utilização do git e git-hub e criação de currículo.
 
 # CÚRRICULO BÁSICO
 
